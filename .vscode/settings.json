@@ -102,7 +102,7 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "unity-project-template.sln",
+    "dotnet.defaultSolution": "unity-project-template.slnx",
     "omnisharp.enableEditorConfigSupport": true,
     "omnisharp.enableRoslynAnalyzers": true,
     "dotnet.format.enable": true,
